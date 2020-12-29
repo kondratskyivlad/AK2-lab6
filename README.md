@@ -1,5 +1,7 @@
 # AK2-lab6
 
+Виконав - Кондрацький Владислав ІО-83
+
 Basic:
 
 checkpatch hello.c
